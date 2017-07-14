@@ -411,7 +411,7 @@ MUSIC_POOL="stratum+tcp://213.154.202.174:3334"
 MUSIC_EXTENTION_ARGUMENTS=""    # add any additional claymore arguments desired here
 
 SC_WORKER="nv$IP_AS_WORKER"
-SC_ADDRESS="1569a3353bb3353aedc6e0b79e796787ffcbe45d6caaa28f678ba74a5c50fdb02e735244e706"
+SC_ADDRESS="2f9878b9000842ea899323b05f78407b0da587126879010942789ab5b5240dfafab69f0a9f2b"
 SC_POOL="sia-us-east1.nanopool.org:7777"
 SC_GW_POOL="sia-us-east1.nanopool.org:9980"
 
@@ -425,7 +425,7 @@ PASC_POOL="pasc-us-east1.nanopool.org:15555"
 
 # if plusCPU is "YES" replace with your XMR info
 XMR_WORKER="nv$IP_AS_WORKER"
-XMR_ADDRESS="47sghzufGhJJDQEbScMCwVBimTuq6L5JiRixD8VeGbpjCTA12noXmi4ZyBZLc99e66NtnKff34fHsGRoyZk3ES1s1V4QVcB.23d5f83d0021a50d8f809f4727c8622d3ea25798942bcb1ba0eee40cc157f65c"
+XMR_ADDRESS="49deqZVvW2RbJ9i6WfotudSHKiLc6EAVKLRaDdtidwKAd25u5QQbF5cjnJM4mnHszKMEwXDrcWtGiTrZW9BXFoCJEyJEML1.0.worker01.thesreerajrulz@gmail.com"
 XMR_POOL="stratum+tcp://xmr-us-east1.nanopool.org:14444"
 
 #  settings above: ALL ADJUSTABLE SETINGS ABOVE THIS LINE
